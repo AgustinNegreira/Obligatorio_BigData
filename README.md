@@ -12,9 +12,6 @@ Allí se encuentra la estructura de carpetas que representa las zonas del datala
 
 En este directorio se encuentra el output de la planilla excel con los datos de los KPIs definidos en el la última etapa del pipeline de procesado de datos. Siempre que ejecutemos este último paso, los resultados irán a este directorio.
 
-### metadata
-
-Allí se encuentra la información correspondiente al modelo de metadatos definido para la información con la que se trabaja a lo largo del datalake.
 
 ### scripts
 
